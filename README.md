@@ -1,7 +1,7 @@
 ![Me](./img/Mah-pic.png)
 
 
-# <div align="center">_```Mahmoud ABU AZOUM```_</div>
+# _```Mahmoud ABU AZOUM```_
 ***
 
 > “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” 

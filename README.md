@@ -20,9 +20,9 @@ My dream is to travel the world
 ```
 ```
 This is my favorite documantary "One Planet, Seven Worlds".
-Click the photo to watch it 📺 :tv:.
+Click the photo to watch it.📺
 ```
-[![Tiger](https://s01.sgp1.cdn.digitaloceanspaces.com/article/112828-ezeuqzarqc-1549955118.jpg)](https://www.youtube.com/playlist?list=PLe2nGhEGXFVsDrXVCGigvaro5reqivLv6)
+[![Tiger](./img/tiger.jpg)](https://www.youtube.com/playlist?list=PLe2nGhEGXFVsDrXVCGigvaro5reqivLv6)
 
 
 ### _Contact me_

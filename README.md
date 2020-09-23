@@ -1,4 +1,4 @@
-<img align="center" alt="Me" width=222"" src="./img/Mah-pic.png" />
+![Me](./img/Mah-pic.png)
 
 
 # <div align="center">_```Mahmoud ABU AZOUM```_</div>
